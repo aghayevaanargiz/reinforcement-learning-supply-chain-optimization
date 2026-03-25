@@ -6,7 +6,7 @@ Deep reinforcement learning for inventory allocation under stochastic demand usi
 
 **Authors:** Laman Panakhova, Nargiz Aghayeva, Leyla Eynullazada, Aysu Azammadova, Samir Mammadov  
 **Institution:** ADA University, School of Information Technologies and Engineering  
-**Status:** Active Research = Paper Under Review, Implementation in Development
+**Status:** Active Research — Paper Under Review, Implementation in Development
 
 ---
 
@@ -82,6 +82,19 @@ Deep Q-Network (DQN) with:
 | Code refactoring | In progress |
 | Extended experiments | Planned |
 | Paper | Under review |
+
+---
+
+## Repository Status
+
+This project is **ongoing**. The repository currently contains the paper draft and preliminary results. Upon finalization of the project, the following will be added:
+
+- Full implementation code
+- Training scripts
+- Experiment notebooks
+- Preprocessing pipelines
+- Evaluation metrics
+- Configuration files
 
 ---
 
