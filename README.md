@@ -6,7 +6,7 @@ Deep reinforcement learning for inventory allocation under stochastic demand usi
 
 **Authors:** Laman Panakhova, Nargiz Aghayeva, Leyla Eynullazada, Aysu Azammadova, Samir Mammadov  
 **Institution:** ADA University, School of Information Technologies and Engineering  
-**Status:** Active Research — Paper Under Review, Implementation in Development
+**Status:** Active Research - Paper Under Review, Implementation in Development
 
 ---
 
